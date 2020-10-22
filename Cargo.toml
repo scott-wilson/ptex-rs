@@ -1,0 +1,17 @@
+[package]
+name = "ptex"
+version = "0.0.0"
+authors = ["Scott Wilson <scott@propersquid.com>"]
+edition = "2018"
+license = "BSD-3-Clause"
+description = "Rust bindings for Ptex (placeholder)"
+keywords = ["vfx", "animation", "cg", "ptex", "texture"]
+categories = ["api-bindings"]
+homepage = "https://www.github.com/scott-wilson/Ptex-rs"
+documentation = "https://docs.rs/Ptex"
+repository = "https://www.github.com/scott-wilson/Ptex-rs"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
